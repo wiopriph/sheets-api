@@ -5,7 +5,7 @@ const {google} = require('googleapis')
 const http = require('http')
 
 const SCOPES = [ 'https://www.googleapis.com/auth/spreadsheets' ]
-const TOKEN_PATH = '/etc/secrets/token.json'
+const TOKEN_PATH = 'token.json'
 const SPREADSHEET_ID = '10EQ3nCqDCEOfCmJOPw91Kytg-i5IdaDNOqMvd0iBmz4'
 const RANGE = 'Sheet1'
 
