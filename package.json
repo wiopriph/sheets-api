@@ -1,0 +1,10 @@
+{
+  "name": "sheets-api",
+  "version": "1.0.0",
+  "description": "Read, write, and format data in Google Sheets",
+  "main": "index.js",
+  "homepage": "https://github.com/wiopriph/sheets-api#readme",
+  "dependencies": {
+    "googleapis": "^47.0.0"
+  }
+}
