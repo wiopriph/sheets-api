@@ -7,7 +7,7 @@ const {google} = require('googleapis')
 const SCOPES = ['https://www.googleapis.com/auth/spreadsheets']
 const TOKEN_PATH = 'token.json'
 const SPREADSHEET_ID = '10EQ3nCqDCEOfCmJOPw91Kytg-i5IdaDNOqMvd0iBmz4'
-const RANGE = 'Sheet1'
+const RANGE = 'С сайта'
 const PORT = 3000
 
 fs.readFile('credentials.json', (err, content) => {
